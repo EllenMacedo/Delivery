@@ -3,6 +3,10 @@ Ellen Cristhyna e Kimi Junger
 Versao do sistema de Delivery + CR2.
 A biblioteca Auditoria foi adicionada ao JitPack: https://jitpack.io/#EllenMacedo/Auditoria/v1.0.0
 
+Biblioteca disponivel no github:
+https://github.com/EllenMacedo/Auditoria
+
+
 dependencia utilizada:
 	<repositories>
 		<repository>
